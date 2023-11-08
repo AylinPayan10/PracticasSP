@@ -1,1 +1,30 @@
-# Integrantes del equipo:
+# Depto de Sistemas Y computación 
+# Ing. En Sistemas Computaconales
+# SISTEMAS PROGRAMABLES 
+# Integrantes del equipo
+  Garcia Cordero Emiliano,
+  Justo Garcia Alejandro,
+  Martinez Garcia Gabriel Stoyko,
+  Payan Saavedra Aylin Cassandra
+# Objetivo
+
+
+
+# Codigo
+
+
+
+# Pruebas
+
+
+
+# Conclusión 
+
+
+
+
+
+
+
+  
+  
